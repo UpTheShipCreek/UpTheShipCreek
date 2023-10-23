@@ -1,5 +1,5 @@
 ```
-- Words tend to make sense in our minds, irrespective of their formal definitions.
+- Words tend to make sense in our minds, regardless of, or in spite of, any formal definitions.
 This leads to a peculiar form of conceptual argumentation, rooted not in classical logic,
 but in the amalgamation of intuitive concepts founded on our intrinsic understanding.
 

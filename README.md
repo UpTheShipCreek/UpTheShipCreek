@@ -1,4 +1,3 @@
-```
 - Words tend to make sense in our minds, regardless of, or in spite of, any formal definitions.
 This leads to a peculiar form of conceptual argumentation, rooted not in classical logic,
 but in the amalgamation of intuitive concepts founded on our intrinsic understanding.
@@ -31,4 +30,3 @@ You can take a familiar concept, reframe it, and this process itself will genera
 - Really? You can't think of an example?
 
 - No.
-```

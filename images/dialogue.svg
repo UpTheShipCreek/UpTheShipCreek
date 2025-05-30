@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350 700">
   <style>
-    /* Your theme-aware colors */
     :root {
       --purple-light: #6A0DAD;
       --orange-light: #FF8C00;
@@ -20,7 +19,6 @@
       }
     }
 
-    /* Dialogue styles */
     .socrates {
       font-family: 'Courier New', monospace;
       font-size: 20px;
@@ -33,7 +31,6 @@
     }
   </style>
 
-  <!-- Dialogue lines (positioned vertically) -->
   <text x="20" y="40" class="socrates">- Words tend to make sense in our minds, regardless of, or in spite of, any formal definitions.</text>
   <text x="20" y="70" class="socrates">This leads to a peculiar form of conceptual argumentation, rooted not in classical logic,</text>
   <text x="20" y="100" class="socrates">but in the amalgamation of intuitive concepts founded on our intrinsic understanding.</text>

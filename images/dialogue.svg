@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350 700">
+  <style>
+    /* Your theme-aware colors */
+    :root {
+      --purple-light: #6A0DAD;
+      --orange-light: #FF8C00;
+      --purple-dark: #BB86FC;
+      --orange-dark: #FFB347;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --purple: var(--purple-dark);
+        --orange: var(--orange-dark);
+      }
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --purple: var(--purple-light);
+        --orange: var(--orange-light);
+      }
+    }
+
+    /* Dialogue styles */
+    .socrates {
+      font-family: 'Courier New', monospace;
+      font-size: 20px;
+      fill: var(--orange);
+    }
+    .doubter {
+      font-family: 'Courier New', monospace;
+      font-size: 20px;
+      fill: var(--purple);
+    }
+  </style>
+
+  <!-- Dialogue lines (positioned vertically) -->
+  <text x="20" y="40" class="socrates">- Words tend to make sense in our minds, regardless of, or in spite of, any formal definitions.</text>
+  <text x="20" y="70" class="socrates">This leads to a peculiar form of conceptual argumentation, rooted not in classical logic,</text>
+  <text x="20" y="100" class="socrates">but in the amalgamation of intuitive concepts founded on our intrinsic understanding.</text>
+
+  <text x="20" y="140" class="doubter">- Okay.</text>
+
+  <text x="20" y="180" class="socrates">- Consider this phrase: "Hope is that which arises the more you start to lose it."</text>
+
+  <text x="20" y="220" class="doubter">- Sounds paradoxical; something emerging from its own absence. But it does resonate in a way.</text>
+
+  <text x="20" y="260" class="socrates">- Indeed. Language isn’t math; it lacks precision.</text>
+
+  <text x="20" y="300" class="doubter">- I get it, language’s flexibility. So, what are you getting at?</text>
+
+  <text x="20" y="340" class="socrates">- The word "hope" in actuality hides behind it two different signified concepts;</text>
+  <text x="20" y="370" class="socrates">the idea of hope as the expectation of a desired outcome justifiable by concrete evidence and/or reasoning,</text>
+  <text x="20" y="400" class="socrates">and the idea of hope as the expectation of a desired outcome in spite of any evidence that contradicts it.</text>
+
+  <text x="20" y="440" class="doubter">- So, it’s not the hope being lost, but our capacity to justify it.</text>
+  <text x="20" y="470" class="doubter">This clumsy definition is just trying to express the turning point from expectation to hope.</text>
+
+  <text x="20" y="510" class="socrates">- Yes, essentially.</text>
+
+  <text x="20" y="550" class="doubter">- So how can this be used as conceptual argumentation?</text>
+
+  <text x="20" y="590" class="socrates">- Well, I don’t know how this specific phrase can be used in that way.</text>
+
+  <text x="20" y="630" class="doubter">- Really? You can't think of an example?</text>
+
+  <text x="20" y="670" class="socrates">- No.</text>
+</svg>

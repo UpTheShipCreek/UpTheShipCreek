@@ -5,5 +5,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UpTheShipCreek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🚀 Featured Projects
+#### 🔍 Hardest Project — [Extension-of-Consistent-Approximation-Fixpoint-Theory-Proofs](https://github.com/UpTheShipCreek/Extension-of-Consistent-Approximation-Fixpoint-Theory-Proofs)
+<p>Formalization of Domain Theoretic proofs, used in Fixpoint Semantics and Non-Monotonic reasoning, in Lean 4.</p>
+
+#### 📦 Largest Project — [Project2023](https://github.com/UpTheShipCreek/Project2023)
+<p> A project implementing state-of-the-art algorithms, used in Data Science and Machine Learning, in C++.</p>
 
 ![Dialogue](./images/dialogue.svg)

@@ -10,7 +10,7 @@
 <p>Formalization of Domain Theoretic proofs, used in Fixpoint Semantics and Non-Monotonic reasoning, in Lean 4.</p>
 
 #### 📦 Largest Project — [Project2023](https://github.com/UpTheShipCreek/Project2023)
-<p> A project implementing state-of-the-art Approximate-NN algorithms, used in Data Science and Machine Learning, in C++.</p>
+<p> A project implementing state-of-the-art approximate KNNs algorithms, used in Data Science and Machine Learning, in C++.</p>
 
 ## 🧠 Interests
 

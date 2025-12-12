@@ -1,5 +1,4 @@
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=UpTheShipCreek)
-
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=UpTheShipCreek&layout=compact&theme=dark)
 
 ## 🚀 Featured Projects
 #### 🔍 Hardest Project — [Extension-of-Consistent-Approximation-Fixpoint-Theory-Proofs](https://github.com/UpTheShipCreek/Extension-of-Consistent-Approximation-Fixpoint-Theory-Proofs)
